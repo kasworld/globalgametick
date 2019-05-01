@@ -11,7 +11,7 @@
 
 // gametickmaker의 global instance.
 // 서버가 종료 되면 흐름이 멎고 재시작하면 계속 됨.
-package global_gametick
+package globalgametick
 
 import (
 	"time"
